@@ -32,6 +32,10 @@ Cubit>view iso # isometric x, y, z camera
 Cubit>up 0 0 1  # z-axis points up
 ```
 
+## See Also
+
+* Spherical meshes used in https://github.com/autotwin/mesh/blob/main/doc/spherical_baseline.md
+
 ## References:
 
 * Alec Jacobson's commond 3D test models: https://github.com/alecjacobson/common-3d-test-models
