@@ -9,7 +9,7 @@
 * Test link from the repo
 
 Col1 | Col2 | File Size
---- | --- | --- 
+:-: | :-: | :-: 
 [`nefetiti.obj`](https://drive.google.com/file/d/1LIdiA_aTkb5nWL6Zw25SG3x5Kd761LrU/view?usp=sharing) | ![image_name](figs/nefertiti.png) | 3.5MB
 [`T1_Utah_SCI`](https://drive.google.com/drive/folders/14XLkYlxQYVhJTOFZutao2VtpFadhOhTc?usp=sharing) | ![image_name](figs/T1_Utah_SCI.png) | 95.1MB
 d2 | e2 | f2
