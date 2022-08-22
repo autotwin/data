@@ -1,4 +1,21 @@
 # data
+
+## Example of adding link to Google drive
+
+* Edit the `markdown` file 
+* On Google drive, upload file, then create a globallly readable link
+* Include the link in the markdown
+* Push updated markdown file, and any `.png` thumbnail images, to the repo
+* Test link from the repo
+
+Col1 | Col2 | File Size
+--- | --- | --- 
+[`nefetiti.obj`](https://drive.google.com/file/d/1LIdiA_aTkb5nWL6Zw25SG3x5Kd761LrU/view?usp=sharing) | ![image_name](figs/nefertiti.png) | 3.5MB
+d | e | f
+d2 | e2 | f2
+
+## Common Data Models
+
 Data sources, such as isosurfaces and meshes, either in repo (small files) or linked to Google drive (large files)
 
 | Name                                                                                             | Image                                                                 |    Size | vertices | faces/volumes |
@@ -9,7 +26,6 @@ Data sources, such as isosurfaces and meshes, either in repo (small files) or li
 | [`igea.obj`](https://drive.google.com/file/d/1bUed-C9rrrYngCgQ_I5IVZmmq7lFU0yQ/view?usp=sharing) | ![igea](figs/igea.png)                                                |  9.6 MB |  134,456 |       268,686 |
 | [`igea.stl`](https://drive.google.com/file/d/1lSnIZWIib8HR2FcpDnbDm8fHgLy2tfki/view?usp=sharing) | ![igea](figs/igea.png)                                                | 70.7 MB |  134,456 |       268,686 |
 | [`igea.inp`](https://drive.google.com/file/d/17LzfODTpLHoGVNML5oKILf-Zpaw9DUcX/view?usp=sharing) | ![igea_hex](figs/igea_hex.png) ![igea_hex_msj](figs/igea_hex_msj.png) |   48 MB |  330,175 |       312,752 |
-
 
 ## RMU source files
 
