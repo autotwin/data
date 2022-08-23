@@ -10,9 +10,9 @@
 
 Link | File Type | Image | File Size
 :-: | :-: | :-: | :-: 
-[`nefetiti.obj`](https://drive.google.com/file/d/1LIdiA_aTkb5nWL6Zw25SG3x5Kd761LrU/view?usp=sharing) | obj  | ![image_name](figs/nefertiti.png) | 3.5MB
-[`T1_Utah_SCI.nii`](https://drive.google.com/file/d/12sD8qJqSfPdTjHiUJEZ3pK10-J83v06Q/view?usp=sharing) | NIfTI | ![image_name](figs/T1_Utah_SCI.png) | 109.1MB
-[`IXI661-HH-2788-T1.nii`](https://drive.google.com/file/d/1rFx5z95njmdmFpfDcE85NxqQqD4WrAf0/view?usp=sharing) | NIfTI | ![image_name](figs/IXI661-HH-2788-T1.png) | 19.7MB
+[`nefetiti.obj`](https://drive.google.com/file/d/1LIdiA_aTkb5nWL6Zw25SG3x5Kd761LrU/view?usp=sharing) | obj  | ![nefertiti](figs/nefertiti.png) | 3.5MB
+[`T1_Utah_SCI.nii`](https://drive.google.com/file/d/12sD8qJqSfPdTjHiUJEZ3pK10-J83v06Q/view?usp=sharing) | NIfTI | ![T1_Utah_SCI](figs/T1_Utah_SCI.png) | 109.1MB
+[`IXI661-HH-2788-T1.nii`](https://drive.google.com/file/d/1rFx5z95njmdmFpfDcE85NxqQqD4WrAf0/view?usp=sharing) | NIfTI | ![IXI661](figs/IXI661-HH-2788-T1.png) | 19.7MB
 d2 | e2 | f2 | g2
 
 ## Common Data Models
@@ -54,4 +54,6 @@ Cubit>up 0 0 1  # z-axis points up
 
 ## References:
 
+* SCI Head model: https://www.sci.utah.edu/sci-headmodel.html
+* IXI Dataset: https://brain-development.org/ixi-dataset/ 
 * Alec Jacobson's commond 3D test models: https://github.com/alecjacobson/common-3d-test-models
