@@ -1,3 +1,6 @@
+# ignore NIfTI files (too large for GitHub)
+*.nii
+
 # macOS database files
 .DS_Store
 
