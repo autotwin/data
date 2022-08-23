@@ -8,11 +8,12 @@
 * Push updated markdown file, and any `.png` thumbnail images, to the repo
 * Test link from the repo
 
-Col1 | Col2 | File Size
-:-: | :-: | :-: 
-[`nefetiti.obj`](https://drive.google.com/file/d/1LIdiA_aTkb5nWL6Zw25SG3x5Kd761LrU/view?usp=sharing) | ![image_name](figs/nefertiti.png) | 3.5MB
-[`T1_Utah_SCI`](https://drive.google.com/drive/folders/14XLkYlxQYVhJTOFZutao2VtpFadhOhTc?usp=sharing) | ![image_name](figs/T1_Utah_SCI.png) | 95.1MB
-d2 | e2 | f2
+Link | File Type | Image | File Size
+:-: | :-: | :-: | :-: 
+[`nefetiti.obj`](https://drive.google.com/file/d/1LIdiA_aTkb5nWL6Zw25SG3x5Kd761LrU/view?usp=sharing) | obj  | ![image_name](figs/nefertiti.png) | 3.5MB
+[`T1_Utah_SCI.nii`](https://drive.google.com/file/d/12sD8qJqSfPdTjHiUJEZ3pK10-J83v06Q/view?usp=sharing) | NIfTI | ![image_name](figs/T1_Utah_SCI.png) | 109.1MB
+[`IXI661-HH-2788-T1.nii`](https://drive.google.com/file/d/1rFx5z95njmdmFpfDcE85NxqQqD4WrAf0/view?usp=sharing) | NIfTI | ![image_name](figs/IXI661-HH-2788-T1.png) | 19.7MB
+d2 | e2 | f2 | g2
 
 ## Common Data Models
 
