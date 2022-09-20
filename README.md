@@ -48,6 +48,24 @@ Cubit>view iso # isometric x, y, z camera
 Cubit>up 0 0 1  # z-axis points up
 ```
 
+## Simić brainstem
+
+From [GrabCAD](https://grabcad.com/library/brain-healthy-1)
+
+Brain (healthy), Slobodan Simić, April 2nd, 2019
+
+Healthy human brain. Model shows complete brain with separated models for cerebellum, cerebrum, brain stem and corpus callosum. The model was segmented from MRI file downloaded at http://www.sci.utah.edu/sci-headmodel.html , model T1.
+"This project was supported by the National Institute of General Medical Sciences of the National Institutes of Health under grant number P41 GM103545-18."
+
+Six files:
+
+* [complete_brain.stl](https://drive.google.com/file/d/1AjGQPhIUnCSA3qUfbEX5bKlxTIcwk32C/view?usp=sharing)
+* [brainstem+corpus_callosum.stl](https://drive.google.com/file/d/1C8YXm27nnC-B7eIRLxjbJTnLro8j8jD3/view?usp=sharing)
+* [corpus_callosum.stl](https://drive.google.com/file/d/1HTf4cWDtylbSYc-2ckhLMjryzPjWg-Uq/view?usp=sharing)
+* [brainstem.stl](https://drive.google.com/file/d/1UneGYeMKp7ga8xIo-x9DJpRnMijTmVdR/view?usp=sharing)
+* [cerebrum.stl](https://drive.google.com/file/d/1dSngyuuJVlngjDIE84ko1YNuy4ihooyq/view?usp=sharing)
+* [cerebellum.stl](https://drive.google.com/file/d/1XSKgvZIDCAK8thxGpVGtZLpiraT5ttSn/view?usp=sharing)
+
 ## See Also
 
 * Spherical meshes used in https://github.com/autotwin/mesh/blob/main/doc/spherical_baseline.md
