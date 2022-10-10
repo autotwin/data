@@ -28,6 +28,11 @@ Data sources, such as isosurfaces and meshes, either in repo (small files) or li
 | [`igea.stl`](https://drive.google.com/file/d/1lSnIZWIib8HR2FcpDnbDm8fHgLy2tfki/view?usp=sharing) | ![igea](figs/igea.png)                                                | 70.7 MB |  134,456 |       268,686 |
 | [`igea.inp`](https://drive.google.com/file/d/17LzfODTpLHoGVNML5oKILf-Zpaw9DUcX/view?usp=sharing) | ![igea_hex](figs/igea_hex.png) ![igea_hex_msj](figs/igea_hex_msj.png) |   48 MB |  330,175 |       312,752 |
 
+
+## T1 Utah SCI brain
+
+See [folder](https://drive.google.com/drive/folders/19ul4aOjraVyYSeJfPZzSj-rAif6S4621?usp=sharing) containing `T1_Utah_SCI_brain` in format `npy, stl` and `T1_Utah_SCI_outer` in `npy, stl`, `T1_Utah_SCI.nii`, and `T1_Utah_SCI.yaml`.
+
 ## RMU source files
 
 * `Subject D`
