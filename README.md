@@ -80,3 +80,5 @@ Six files:
 * SCI Head model: https://www.sci.utah.edu/sci-headmodel.html
 * IXI Dataset: https://brain-development.org/ixi-dataset/ 
 * Alec Jacobson's commond 3D test models: https://github.com/alecjacobson/common-3d-test-models
+
+![metadata-orientation](figs/metadata-orientation.png)
