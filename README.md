@@ -3,7 +3,7 @@
 ## Example of adding link to Google drive
 
 * Edit the `markdown` file 
-* On Google drive, upload file, then create a globallly readable link
+* On Google drive, upload file, then create a globally readable link
 * Include the link in the markdown
 * Push updated markdown file, and any `.png` thumbnail images, to the repo
 * Test link from the repo
@@ -35,6 +35,8 @@ See [folder](https://drive.google.com/drive/folders/19ul4aOjraVyYSeJfPZzSj-rAif6
 
 ## RMU source files
 
+
+* [`All_Hex_Dec.inp`](https://drive.google.com/file/d/1CpiqOSwjqh3XdQfoi3VjlyCyVvH6tplR/view?usp=share_link) 212 MB
 * `Subject D`
   * 18 year old female
   * 10 `.stl` files total:
