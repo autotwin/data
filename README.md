@@ -36,9 +36,9 @@ See [folder](https://drive.google.com/drive/folders/19ul4aOjraVyYSeJfPZzSj-rAif6
 ## RMU source files
 
 
-* [`All_Hex_Dec.inp`](https://drive.google.com/file/d/1yLVGmx1qRFYrI981baoqiovi3U3uzJ_D/view?usp=share_link) 212 MB
-
+* [`All_Hex_Dec.inp`](https://drive.google.com/file/d/1yLVGmx1qRFYrI981baoqiovi3U3uzJ_D/view?usp=share_link) 212 MB  (All-hexahedral created Dec 2021)
 * `Subject D`
+  * Sushan's original work
   * 18 year old female
   * 10 `.stl` files total:
 
@@ -83,5 +83,6 @@ Six files:
 * SCI Head model: https://www.sci.utah.edu/sci-headmodel.html
 * IXI Dataset: https://brain-development.org/ixi-dataset/ 
 * Alec Jacobson's commond 3D test models: https://github.com/alecjacobson/common-3d-test-models
+* Philip Bayly, NeuroImaging Tools and Resources Collaboration (NITRC), [Brain Biomechanics Imaging Resources (BBIR)](https://www.nitrc.org/projects/bbir/), accessed 28 Jun 2023.
 
 ![metadata-orientation](figs/metadata-orientation.png)
