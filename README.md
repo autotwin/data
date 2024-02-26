@@ -76,7 +76,9 @@ Six files:
 
 ## See Also
 
-* Spherical meshes used in https://github.com/autotwin/mesh/blob/main/doc/sphere_mesh_refinement.md
+* Spherical meshes used in 
+  * https://github.com/autotwin/mesh/blob/main/doc/octa_loop.md
+  * https://github.com/autotwin/mesh/blob/main/doc/sphere_mesh_refinement.md
 
 ## References:
 
